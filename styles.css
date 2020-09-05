@@ -1,0 +1,65 @@
+.logo{
+    height: 30px;
+    width: 80px;
+    background-color: aqua;
+    border: 5px;
+    align-content: center;
+    text-align: center;
+    
+    
+}
+
+.logo {
+    transform: skew(20deg);
+}
+
+.sb{
+    transform: skew(10deg) 
+}
+
+
+.sb{
+    height: 30px;
+    width: 500px;
+    background-color: mediumturquoise;
+    border: 5px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+.acs{
+    height: 30px;
+    width: 200px;
+    background-color: aqua;
+    border: 5px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+.title{
+    height: 30px;
+    width: 300px;
+    background-color: aqua;
+    border: 5px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+.menu{
+    background-color: cadetblue;
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.menumain{
+    background-color: turquoise;
+    text-align: center;
+    width: auto;
+    height: 800px;
+    align-content: space-between;
+    border: 5px;
+}

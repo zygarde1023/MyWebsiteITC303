@@ -29,7 +29,7 @@
     text-align: center;
     background-color: blue;
     animation-name: footer;
-    animation-duration: 4s;
+    animation-duration: infinite;
 }
 
 @keyframes footer {

@@ -1,1 +1,1 @@
-<?php header('Location: /svg.html'); ?>
+<?php header('Location: /index.html'); ?>
